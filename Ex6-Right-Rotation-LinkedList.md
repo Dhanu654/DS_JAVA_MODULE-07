@@ -1,5 +1,5 @@
 # Ex6 Right Rotation LinkedList
-## DATE: 20-11-25
+## DATE: 17-09-26
 
 ## AIM:
 To write a Java  program to:
